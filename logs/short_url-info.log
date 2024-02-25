@@ -1,0 +1,6 @@
+{"L":"INFO","T":"2024-02-24 21:53:44","C":"tool/log.go:63","M":"[initLogger] zap plugin initializing completed"}
+{"L":"INFO","T":"2024-02-24 21:53:45","C":"server/server.go:23","M":"server start success : 127.0.0.1:8099"}
+{"L":"INFO","T":"2024-02-25 11:36:55","C":"tool/log.go:63","M":"[initLogger] zap plugin initializing completed"}
+{"L":"INFO","T":"2024-02-25 11:36:55","C":"server/server.go:23","M":"server start success : 127.0.0.1:8099"}
+{"L":"INFO","T":"2024-02-25 11:43:54","C":"tool/log.go:63","M":"[initLogger] zap plugin initializing completed"}
+{"L":"INFO","T":"2024-02-25 11:43:54","C":"server/server.go:23","M":"server start success : 127.0.0.1:8099"}

@@ -1,0 +1,6 @@
+{"L":"DEBUG","T":"2024-02-24 21:53:45","C":"db/mysql.go:24","M":"mysql : root:tang3255332@(127.0.0.1:3306)/goshortlink?charset=utf8"}
+{"L":"DEBUG","T":"2024-02-24 21:53:45","C":"db/redis.go:28","M":"redis : 127.0.0.1:6379"}
+{"L":"DEBUG","T":"2024-02-25 11:36:55","C":"db/mysql.go:24","M":"mysql : root:tang3255332@(127.0.0.1:3306)/goshortlink?charset=utf8"}
+{"L":"DEBUG","T":"2024-02-25 11:36:55","C":"db/redis.go:28","M":"redis : 127.0.0.1:6379"}
+{"L":"DEBUG","T":"2024-02-25 11:43:54","C":"db/mysql.go:24","M":"mysql : root:tang3255332@(127.0.0.1:3306)/goshortlink?charset=utf8"}
+{"L":"DEBUG","T":"2024-02-25 11:43:54","C":"db/redis.go:28","M":"redis : 127.0.0.1:6379"}
